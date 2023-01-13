@@ -1,0 +1,7 @@
+{
+  "name": "proyecto_tav",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
